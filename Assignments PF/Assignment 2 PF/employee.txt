@@ -1,0 +1,3 @@
+R,IT 12 ,000
+B,Management 12 ,000
+C,IT 33 ,000
