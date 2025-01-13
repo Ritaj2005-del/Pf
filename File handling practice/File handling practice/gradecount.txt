@@ -1,0 +1,5 @@
+Grade A count: 3
+Grade B count: 2
+Grade C count: 2
+Grade D count: 2
+Grade E count: 1
