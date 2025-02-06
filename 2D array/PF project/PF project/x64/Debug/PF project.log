@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\semester2\visualstudio\PF project\PF project\Source.cpp(31,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\semester2\visualstudio\PF project\PF project\Source.cpp(102,66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\semester2\visualstudio\PF project\PF project\Source.cpp(117,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\semester2\visualstudio\PF project\PF project\Source.cpp(133,66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\semester2\visualstudio\PF project\PF project\Source.cpp(148,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  PF project.vcxproj -> C:\semester2\visualstudio\PF project\x64\Debug\PF project.exe
